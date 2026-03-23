@@ -1,0 +1,4 @@
+[
+  { "name": "Gemini CLI",  "command": "gemini" },
+  { "name": "Claude Code", "command": "claude" }
+]
